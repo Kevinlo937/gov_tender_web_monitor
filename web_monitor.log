@@ -1,0 +1,43 @@
+2025-04-02 16:26:40,443 - INFO - Scheduled monitoring job to run daily at 09:00
+2025-04-02 16:26:40,445 - INFO - Running initial monitoring job
+2025-04-02 16:26:40,445 - INFO - Starting monitoring job at 2025-04-02 16:26:40
+2025-04-02 16:26:40,446 - INFO - Last run: 2025-04-02 01:51:03
+2025-04-02 16:26:40,446 - INFO - Searching for tenders with org: '交通局' and project: '水湳'
+2025-04-02 16:26:40,447 - INFO - Searching for tenders with org: '交通局' and project: '水湳'
+2025-04-02 16:26:40,447 - INFO - Date range: 2 months ago until now
+2025-04-02 16:26:40,899 - INFO - Found 1 tender data rows in the search results
+2025-04-02 16:26:40,905 - INFO - Found 1 new tenders
+2025-04-02 16:26:40,906 - INFO - Found 1 new tenders
+2025-04-02 16:26:41,138 - INFO - Successfully sent message to LINE
+2025-04-02 16:26:41,138 - INFO - Successfully sent notifications to LINE
+2025-04-02 16:26:41,139 - INFO - Monitoring job completed successfully
+2025-04-02 16:26:41,139 - INFO - Starting monitoring system scheduler
+2025-04-02 16:31:54,961 - INFO - Monitoring system stopped by user
+2025-04-02 16:51:15,524 - INFO - Scheduled monitoring job to run daily at 09:00
+2025-04-02 16:51:15,524 - INFO - Running initial monitoring job
+2025-04-02 16:51:15,524 - INFO - Starting monitoring job at 2025-04-02 16:51:15
+2025-04-02 16:51:15,525 - INFO - Last run: 2025-04-02 16:26:41
+2025-04-02 16:51:15,525 - INFO - Searching for tenders with org: '交通局' and project: '水湳'
+2025-04-02 16:51:15,526 - INFO - Searching for tenders with org: '交通局' and project: '水湳'
+2025-04-02 16:51:15,526 - INFO - Date range: 2 months ago until now
+2025-04-02 16:51:16,038 - INFO - Found 1 tender data rows in the search results
+2025-04-02 16:51:16,040 - INFO - Found 0 new tenders
+2025-04-02 16:51:16,041 - INFO - No new tenders found
+2025-04-02 16:51:16,043 - INFO - Monitoring job completed successfully
+2025-04-02 16:51:16,043 - INFO - Starting monitoring system scheduler
+2025-04-02 16:51:40,860 - INFO - Monitoring system stopped by user
+2025-04-02 16:53:37,727 - INFO - Scheduled monitoring job to run daily at 09:00
+2025-04-02 16:53:37,728 - INFO - Running initial monitoring job
+2025-04-02 16:53:37,728 - INFO - Starting monitoring job at 2025-04-02 16:53:37
+2025-04-02 16:53:37,729 - INFO - Last run: 2025-04-02 16:51:16
+2025-04-02 16:53:37,729 - INFO - Searching for tenders with org: '交通局' and project: '水湳'
+2025-04-02 16:53:37,730 - INFO - Searching for tenders with org: '交通局' and project: '水湳'
+2025-04-02 16:53:37,730 - INFO - Date range: 2 months ago until now
+2025-04-02 16:53:38,199 - INFO - Found 1 tender data rows in the search results
+2025-04-02 16:53:38,200 - INFO - Found 1 new tenders
+2025-04-02 16:53:38,202 - INFO - Found 1 new tenders
+2025-04-02 16:53:38,468 - INFO - Successfully sent message to LINE
+2025-04-02 16:53:38,468 - INFO - Successfully sent notifications to LINE
+2025-04-02 16:53:38,470 - INFO - Monitoring job completed successfully
+2025-04-02 16:53:38,470 - INFO - Starting monitoring system scheduler
+2025-04-02 16:54:12,402 - INFO - Monitoring system stopped by user
