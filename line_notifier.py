@@ -138,7 +138,7 @@ class LineNotifier:
 # For testing
 if __name__ == "__main__":
     # Channel access token from user input
-    CHANNEL_ACCESS_TOKEN = "UZE4h+sLvPk/7ueINMMK+I/AoqyUIj9apJhk+clU0RHL2MzUu2YB9Whqt/zIvREQS8dJJxM0BEk6/T/zC6DQwfBT5xz+I2v6pmMm2996+d3r9uOj9T+4rw5RluMoSB9NqantoYxGXjfWY+oRexwTSQdB04t89/1O/w1cDnyilFU="
+    CHANNEL_ACCESS_TOKEN = "YOUR TOKEN"
     
     # Create a test tender
     test_tender = {
