@@ -24,8 +24,8 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # LINE Bot credentials
-CHANNEL_ACCESS_TOKEN = "UZE4h+sLvPk/7ueINMMK+I/AoqyUIj9apJhk+clU0RHL2MzUu2YB9Whqt/zIvREQS8dJJxM0BEk6/T/zC6DQwfBT5xz+I2v6pmMm2996+d3r9uOj9T+4rw5RluMoSB9NqantoYxGXjfWY+oRexwTSQdB04t89/1O/w1cDnyilFU="
-CHANNEL_SECRET = "ce6db7dd2dd73306763452ca55b15a49"
+CHANNEL_ACCESS_TOKEN = "YOUR TOKEN"
+CHANNEL_SECRET = "YOUR SECRET"
 
 def create_test_tenders():
     """Create test tender data for testing"""
